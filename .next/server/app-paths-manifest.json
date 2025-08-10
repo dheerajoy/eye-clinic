@@ -1,0 +1,7 @@
+{
+  "/register-patient/page": "app/register-patient/page.js",
+  "/search-patients/page": "app/search-patients/page.js",
+  "/page": "app/page.js",
+  "/patient/[id]/page": "app/patient/[id]/page.js",
+  "/new-visit/page": "app/new-visit/page.js"
+}
